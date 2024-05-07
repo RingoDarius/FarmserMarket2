@@ -1,0 +1,30 @@
+-----------------------------
+-- Strawberry Booth Menu ---
+-----------------------------
+Please choose from the following options:
+1. Fresh Strawberries           $2.99
+2. Strawberry Jam               $4.99
+3. Glazed Strawberry Scone      $2.00
+4. Chocolate Covered Strawberry $0.50
+1
+How many pounds:
+2
+Your current total is: 6.16
+Would you like to add another item? (Y or N)
+y
+-----------------------------
+-- Strawberry Booth Menu ---
+-----------------------------
+Please choose from the following options:
+1. Fresh Strawberries           $2.99
+2. Strawberry Jam               $4.99
+3. Glazed Strawberry Scone      $2.00
+4. Chocolate Covered Strawberry $0.50
+4
+How many chocolate covered strawberries:
+5
+Your current total is: $8.81
+Would you like to add another item? (Y or N)
+n
+Final Total:            $8.81
+Process finished with exit code 0
